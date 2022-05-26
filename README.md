@@ -1,3 +1,7 @@
+# Quickstart
+
+`python2 src/plotterGUI.py`
+
 # Introduction
 
 Dans le cadre de mes études à l'ULB, j'ai créé ce projet pour mon projet
