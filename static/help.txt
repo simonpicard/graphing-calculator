@@ -1,0 +1,20 @@
+This program allows you to plot functions in a graph.
+
+The text box on the right is the place where you have to fill in the functions of x, one per line.
+All functions from the math module are allowed.
+
+The graph will be centered according to the numbers given in the text entries center x and y.
+These numbers must be real numbers.
+
+The numbers of units represented on the x and y axis will be given by range x and y.
+These numbers must be strictly positive real numbers.
+
+The space between two recalculated points will be given by step, once two points are calculated they will be connected.
+This number must be a strictly positive real.
+
+You can export the graph as a ppm file by clicking on the associated button.
+
+By right-clicking on a surface in the graph, a pop-up window will open and give you its size.
+The area will be calculated by two methods, giving their execution time.
+
+Translated with www.DeepL.com/Translator (free version)
